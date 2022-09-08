@@ -47,4 +47,4 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 ## Conclusion
 
-Based on the measured model performance of different algorithms, we find decision trees to be the best fir for predicting the diabetes dataset.
+Based on the measured model performance of different algorithms, we find decision trees to be the best fit for predicting the diabetes dataset.
