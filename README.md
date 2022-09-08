@@ -44,3 +44,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ### Confusion Matrix
 
 ![image](https://user-images.githubusercontent.com/41228969/189177730-f7ebc993-7e56-41ce-9245-0afbcac77497.png)
+
+## Conclusion
+
+Based on the measured model performance of different algorithms, we find decision trees to be the best fir for predicting the diabetes dataset.
